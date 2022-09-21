@@ -1,4 +1,4 @@
-const TAMANHO_TABELA = 10
+const TAMANHO_TABELA = 5
 
 let tabelas = []
 
